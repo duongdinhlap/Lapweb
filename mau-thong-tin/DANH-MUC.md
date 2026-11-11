@@ -2,4 +2,4 @@
 
 | Trường hợp | File | Cập nhật |
 |---|---|---|
-| _(chưa có mẫu nào)_ | | |
+| Visa Anh – trẻ em đi với trường học | [visa-anh-tre-em-di-voi-truong.md](visa-anh-tre-em-di-voi-truong.md) | 2026-11-11 |

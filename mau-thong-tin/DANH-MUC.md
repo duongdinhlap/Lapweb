@@ -7,3 +7,4 @@
 | Visa Trung Quốc – khách đi tour L-Shop Tour | [visa-trung-quoc-di-tour.md](visa-trung-quoc-di-tour.md) | 2026-11-11 |
 | Visa Mỹ – khách sống tại Séc đi tour L-Shop Tour | [visa-my-song-tai-sec-di-tour.md](visa-my-song-tai-sec-di-tour.md) | 2026-11-11 |
 | Visa Mỹ – khách sống tại Đức đi tour L-Shop Tour | [visa-my-song-tai-duc-di-tour.md](visa-my-song-tai-duc-di-tour.md) | 2026-11-11 |
+| Visa Anh – người lớn tự đi, sống tại Séc (không đi tour) | [visa-anh-nguoi-lon-tu-di-sec.md](visa-anh-nguoi-lon-tu-di-sec.md) | 2026-11-12 |
